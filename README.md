@@ -1,4 +1,4 @@
-👋 Hi there, I'm Abhishek RS!
+👋 Hi there, I'm Abhishek !
 
 🎓 B.Tech Graduate in Artificial Intelligence & Machine Learning  
 🏫 Vel Tech University  
