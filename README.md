@@ -12,7 +12,6 @@
 **Data:** Pandas, NumPy, Matplotlib, Seaborn  
 **NLP & CV:** HuggingFace Transformers, OpenCV, NLTK  
 **Dev Tools:** VS Code, GitHub, Jupyter Notebook, Streamlit, FastAPI  
-**Other:** Linux, Windows, Git, Agile Methodology
 
 📌 Projects I'm Proud Of
 
