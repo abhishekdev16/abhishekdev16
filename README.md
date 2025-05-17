@@ -31,8 +31,8 @@
 📫 Let's Connect!
 
 📧 abhishekrusso16@gmail.com  
-🔗www.linkedin.com/in/
-abhishek-r-s-0942762ba
+🔗[www.linkedin.com/in/
+abhishek-r-s-0942762ba]
 
 
 
